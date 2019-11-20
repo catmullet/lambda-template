@@ -2,6 +2,10 @@
 ### Use this template for new Lambda Micro Services
 
 ## Getting Started
+- Create new repository from template
+
+  ![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/image+(7).png)
+  > Use the kms naming convention
 - Run in the terminal ```create.envfile ```
   > This will take the env.example.yml file and create a new one for you
 - Run the project from the root.
