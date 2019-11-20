@@ -2,7 +2,7 @@
 ### Use this template for new Lambda Micro Services
 
 ## Getting Started
-- Create new repository from template
+- Create new repository using the ```Use This Template``` button.
 
   ![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/image+(7).png)
   > Use the kms naming convention
