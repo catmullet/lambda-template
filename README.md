@@ -14,6 +14,8 @@
   > Once we have an environment running lets start building.
 - Rename the project by running ```./rename-project {{Project Name}}```
   > This can only be run once so choose wisely.
+- Commit your work so far.
+  > Remember to keep it clean
   
 ## Getting to know the template
 #### Description
