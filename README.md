@@ -37,5 +37,5 @@ Local Routes are defined in these files:
 #### LambdaRequest and LambdaResponse
 Both of these types have functions available to them. Check them out ```types/aws/types.go```
 
-#### Where this will fit in
+## Where this will fit in
 ![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/Screenshot+from+2019-11-20+11-31-18.png)
