@@ -2,6 +2,7 @@
 # Lambda Template
 
 ## Getting started
+#### Steps
 - Create new repository using the ```Use this template``` button.
 
   ![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/image+(7).png)
@@ -15,7 +16,8 @@
   > This can only be run once so choose wisely.
   
 ## Getting to know the template
-### Description
+#### Description
+
 All applications will have an API Gateway and behind that gateway microservices.  These microservices should reflect the businesses needs and should be designed in a way they can be maintained and scaled.  Any microservice endpoint that takes longer than a second should be re-thought and refactored to run the quickest possible.  Microservices will not be specific to any app and should be designed as if all applications will be accessing them.
----
+
 ![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/Screenshot+from+2019-11-20+11-31-18.png)
