@@ -9,7 +9,7 @@ build.example:
 	env GOOS=linux go build -ldflags="-s -w" -o bin/example lambda/example/main.go
 
 get.yml:
-	envi yml --id {{App Name}}
+	envi yml --id example
 
 build: clean build.example
 
