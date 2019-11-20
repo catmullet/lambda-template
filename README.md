@@ -1,5 +1,5 @@
-# Kyani Micro Service Lambda Template
-### Use this template for new Lambda Micro Services
+![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/Screenshot+from+2019-11-20+14-40-24.png)
+# Lambda Template
 
 ## Getting Started
 - Create new repository using the ```Use this template``` button.
