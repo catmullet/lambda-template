@@ -1,4 +1,3 @@
-![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/Screenshot+from+2019-11-20+14-40-24.png)
 # Lambda Template
 
 ## Getting started
@@ -40,5 +39,4 @@ Local Routes are defined in these files:
 Both of these types have functions available to them. Check them out ```types/aws/types.go```
 
 ## Where this will fit in
-![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/Screenshot+from+2019-11-20+11-31-18.png)
 ![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/kms_architecture.png)
