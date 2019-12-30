@@ -3,8 +3,6 @@
 ## Getting started
 #### Steps
 - Create new repository using the ```Use this template``` button.
-
-  ![](https://s3-us-west-2.amazonaws.com/assets.kyani.net/github/image+(7).png)
   > Use the kms naming convention
 - Run in the terminal ```create.envfile ```
   > This will take the env.example.yml file and create a new one for you
